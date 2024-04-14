@@ -19,7 +19,7 @@ int main() {
         desc = 27.5 * bruto / 100;
     }
 
-    printf("O sal·rio liquido eh de %.2f e o desconto eh de %.1f.", (bruto - desc), desc);
+    printf("O sal√°rio liquido eh de %.2f e o desconto eh de %.1f.", (bruto - desc), desc);
 
     return 0;
 }
